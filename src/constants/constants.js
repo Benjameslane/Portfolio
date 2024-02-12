@@ -62,9 +62,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2023, text: 'Started my journey', },
+  { year: 2023, text: 'Began my 24-week Bootcamp', },
+  { year: 2023, text: 'Completed my Capstone Project: Freshkeep', },
+  { year: 2024, text: 'Started building out my own Projects on a daily basis', },
+  { year: 2024, text: 'Shared my projects with the world', },
+  { year: 2024, text: 'Continuing to Code through real project experience. All with the goal of landing a job with a company dedicated to growth within development', },
 ];
